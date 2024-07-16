@@ -1,0 +1,8 @@
+---
+title: "Resume_bias"
+author: "Gitanjali"
+format: html
+---
+
+## Broad topic: Does the name on a resume cause any bias in job selection?
+## Specific question: Do white sounding names have a higher chance of being selected for an interview
